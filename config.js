@@ -28,12 +28,12 @@ var config = {
 		ordertype: "DESC"
 	},
 	mail: {
-		username:"rg@agtisa.com",
-		password: "@123456z",
-		senderemail:"rg@agtisa.com",
-		sendername:"rogelio",
-		host: "",
-		secure: false,
+		username:"rg@uoc.edu",
+		password: "A123456z",
+		senderemail:"rg@uoc.edu",
+		sendername:"jose",
+		host: "smtp.gmail.com",
+		secure: true,
 		port: "465"
 	},
 	upload: {
