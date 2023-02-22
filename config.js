@@ -32,7 +32,7 @@ var config = {
 		password: "@123456z",
 		senderemail:"rg@agtisa.com",
 		sendername:"rogelio",
-		host: "mail.agtisa.com",
+		host: "",
 		secure: false,
 		port: "465"
 	},
