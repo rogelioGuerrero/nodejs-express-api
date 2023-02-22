@@ -1,7 +1,7 @@
 var config = {
 	app: {
 		name: "test",
-		url: "http://localhost:8060",
+		url: "https://apitest-z2cb.onrender.com/api",
 		frontendUrl: "http://localhost:8050",
 		secret: "dabf4f38c819171cbc49e0a27fbfb0e8",
 		language: "spanish",
