@@ -33,7 +33,7 @@ var config = {
 		senderemail:"rg@agtisa.com",
 		sendername:"rogelio",
 		host: "mail.agtisa.com",
-		secure: true,
+		secure: false,
 		port: "465"
 	},
 	upload: {
