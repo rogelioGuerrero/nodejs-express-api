@@ -1,7 +1,7 @@
 var config = {
 	app: {
 		name: "test",
-		url: "https://apitest-z2cb.onrender.com/api",
+		url: "http://localhost:8060",
 		frontendUrl: "http://localhost:8050",
 		secret: "dabf4f38c819171cbc49e0a27fbfb0e8",
 		language: "spanish",
@@ -28,11 +28,11 @@ var config = {
 		ordertype: "DESC"
 	},
 	mail: {
-		username:"rg@uoc.edu",
-		password: "A123456z",
-		senderemail:"rg@uoc.edu",
-		sendername:"jose",
-		host: "smtp.gmail.com",
+		username:"rg@agtisa.com",
+		password: "suubtgavmlaroemn",
+		senderemail:"rg@agtisa.com",
+		sendername:"rogelio",
+		host: "mail.agtisa.com",
 		secure: true,
 		port: "465"
 	},
