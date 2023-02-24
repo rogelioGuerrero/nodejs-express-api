@@ -28,11 +28,11 @@ var config = {
 		ordertype: "DESC"
 	},
 	mail: {
-		username:"rg@agtisa.com",
+		username:"rg@uoc.edu",
 		password: "suubtgavmlaroemn",
-		senderemail:"rg@agtisa.com",
-		sendername:"rogelio",
-		host: "mail.agtisa.com",
+		senderemail:"rg@uoc.edu",
+		sendername:"jose",
+		host: "smtp.gmail.com",
 		secure: true,
 		port: "465"
 	},
