@@ -29,7 +29,7 @@ var config = {
 	},
 	mail: {
 		username:"rg@uoc.edu",
-		password: "suubtgavmlaroemn",
+		password: "",
 		senderemail:"rg@uoc.edu",
 		sendername:"jose",
 		host: "smtp.gmail.com",
